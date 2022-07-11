@@ -4,6 +4,7 @@
     "description": "Dark Theme by DigitalSpaceStudio",
     "version": "0.0.1",
     "repository": "git@github.com:digitalspacestdio/vscode-darkness-theme.git",
+    "publisher": "digitalspacestudio",
     "engines": {
         "vscode": "^1.69.0"
     },
