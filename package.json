@@ -1,0 +1,22 @@
+{
+    "name": "digitalspacestdio-darkness",
+    "displayName": "digitalspacestdio.darkness",
+    "description": "Dark Theme by DigitalSpaceStudio",
+    "version": "0.0.1",
+    "repository": "git@github.com:digitalspacestdio/vscode-darkness-theme.git",
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Darkness",
+                "uiTheme": "hc-black",
+                "path": "./themes/Darkness-color-theme.json"
+            }
+        ]
+    }
+}
