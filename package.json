@@ -2,7 +2,7 @@
     "name": "digitalspacestdio-darkness",
     "displayName": "digitalspacestdio.darkness",
     "description": "Dark Theme by DigitalSpaceStudio",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "repository": "git@github.com:digitalspacestdio/vscode-darkness-theme.git",
     "publisher": "digitalspacestudio",
     "engines": {
@@ -17,6 +17,7 @@
         "eamodio.gitlens",
         "esbenp.prettier-vscode"
     ],
+    
     "contributes": {
         "themes": [
             {
