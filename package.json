@@ -2,7 +2,7 @@
     "name": "digitalspacestdio-darkness",
     "displayName": "digitalspacestdio.darkness",
     "description": "Dark Theme by DigitalSpaceStudio",
-    "version": "0.0.6",
+    "version": "0.0.7",
     "repository": "git@github.com:digitalspacestdio/vscode-darkness-theme.git",
     "publisher": "digitalspacestudio",
     "engines": {
@@ -12,19 +12,6 @@
         "Themes"
     ],
     "extensionDependencies": [
-        "eamodio.gitlens",
-        "codeandstuff.vscode-navigate-edit-history",
-        "ms-azuretools.vscode-docker",
-        "esbenp.prettier-vscode",
-        "editorconfig.editorconfig",
-        "paragdiwan.gitpatch",
-        "xyz.local-history",
-        "wenfangdu.faster-new",
-        "christian-kohler.npm-intellisense",
-        "pwarchol.vscode-php-file-link",
-        "bmewburn.vscode-intelephense-client",
-        "felixfbecker.php-debug",
-        "mehedidracula.php-namespace-resolver"
     ],
     
     "contributes": {
